@@ -11,6 +11,9 @@
 ### tl; dr
 ![xkcd TSP](http://imgs.xkcd.com/comics/travelling_salesman_problem.png)
 > Source : xkcd
+
+Report should be an interesting read for you.
+
 ### Dataset
 [TSPLib](http://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/)
 
